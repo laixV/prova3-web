@@ -1,0 +1,109 @@
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/appsettings.json
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Super Market.exe
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Super Market.deps.json
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Super Market.runtimeconfig.json
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Super Market.runtimeconfig.dev.json
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Super Market.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/ref/Super Market.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Super Market.pdb
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/AutoMapper.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Humanizer.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/System.Web.Mvc.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/System.Web.Razor.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/System.Web.Helpers.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/System.Web.WebPages.Deployment.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/System.Web.WebPages.Razor.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/System.Web.WebPages.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Microsoft.Web.Infrastructure.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Npgsql.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/obj/Debug/net5.0/Super Market.csproj.AssemblyReference.cache
+C:/Users/rafael.vieira/Desktop/System Market/System Market/obj/Debug/net5.0/Super Market.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/rafael.vieira/Desktop/System Market/System Market/obj/Debug/net5.0/Super Market.AssemblyInfoInputs.cache
+C:/Users/rafael.vieira/Desktop/System Market/System Market/obj/Debug/net5.0/Super Market.AssemblyInfo.cs
+C:/Users/rafael.vieira/Desktop/System Market/System Market/obj/Debug/net5.0/Super Market.csproj.CoreCompileInputs.cache
+C:/Users/rafael.vieira/Desktop/System Market/System Market/obj/Debug/net5.0/Super Market.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/rafael.vieira/Desktop/System Market/System Market/obj/Debug/net5.0/Super Market.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/rafael.vieira/Desktop/System Market/System Market/obj/Debug/net5.0/staticwebassets/Super Market.StaticWebAssets.Manifest.cache
+C:/Users/rafael.vieira/Desktop/System Market/System Market/obj/Debug/net5.0/staticwebassets/Super Market.StaticWebAssets.xml
+C:/Users/rafael.vieira/Desktop/System Market/System Market/obj/Debug/net5.0/scopedcss/bundle/Super Market.styles.css
+C:/Users/rafael.vieira/Desktop/System Market/System Market/obj/Debug/net5.0/Super Market.RazorTargetAssemblyInfo.cache
+C:/Users/rafael.vieira/Desktop/System Market/System Market/obj/Debug/net5.0/Super Market.csproj.CopyComplete
+C:/Users/rafael.vieira/Desktop/System Market/System Market/obj/Debug/net5.0/Super Market.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/obj/Debug/net5.0/ref/Super Market.dll
+C:/Users/rafael.vieira/Desktop/System Market/System Market/obj/Debug/net5.0/Super Market.pdb
+C:/Users/rafael.vieira/Desktop/System Market/System Market/obj/Debug/net5.0/Super Market.genruntimeconfig.cache
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/appsettings.Development.json
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/appsettings.json
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Super Market.deps.json
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Super Market.runtimeconfig.json
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Super Market.runtimeconfig.dev.json
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Super Market.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/ref/Super Market.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Super Market.pdb
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/AutoMapper.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Humanizer.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/System.Web.Mvc.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/System.Web.Razor.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/System.Web.Helpers.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/System.Web.WebPages.Deployment.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/System.Web.WebPages.Razor.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/System.Web.WebPages.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Microsoft.Web.Infrastructure.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Npgsql.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/obj/Debug/net5.0/Super Market.csproj.AssemblyReference.cache
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/obj/Debug/net5.0/Super Market.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/obj/Debug/net5.0/Super Market.AssemblyInfoInputs.cache
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/obj/Debug/net5.0/Super Market.AssemblyInfo.cs
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/obj/Debug/net5.0/Super Market.csproj.CoreCompileInputs.cache
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/obj/Debug/net5.0/Super Market.MvcApplicationPartsAssemblyInfo.cs
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/obj/Debug/net5.0/Super Market.MvcApplicationPartsAssemblyInfo.cache
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/obj/Debug/net5.0/staticwebassets/Super Market.StaticWebAssets.Manifest.cache
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/obj/Debug/net5.0/staticwebassets/Super Market.StaticWebAssets.xml
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/obj/Debug/net5.0/scopedcss/bundle/Super Market.styles.css
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/obj/Debug/net5.0/Super Market.RazorTargetAssemblyInfo.cache
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/obj/Debug/net5.0/Super Market.csproj.CopyComplete
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/obj/Debug/net5.0/Super Market.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/obj/Debug/net5.0/ref/Super Market.dll
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/obj/Debug/net5.0/Super Market.pdb
+/Users/rafaelvieira/Documents/lais-project/Backend/System Market/obj/Debug/net5.0/Super Market.genruntimeconfig.cache

@@ -1,0 +1,150 @@
+/home/rafael/RiderProjects/System Market/System Market/bin/Debug/net5.0/appsettings.Development.json
+/home/rafael/RiderProjects/System Market/System Market/bin/Debug/net5.0/appsettings.json
+/home/rafael/RiderProjects/System Market/System Market/bin/Debug/net5.0/System Market
+/home/rafael/RiderProjects/System Market/System Market/bin/Debug/net5.0/System Market.deps.json
+/home/rafael/RiderProjects/System Market/System Market/bin/Debug/net5.0/System Market.runtimeconfig.json
+/home/rafael/RiderProjects/System Market/System Market/bin/Debug/net5.0/System Market.runtimeconfig.dev.json
+/home/rafael/RiderProjects/System Market/System Market/bin/Debug/net5.0/System Market.dll
+/home/rafael/RiderProjects/System Market/System Market/bin/Debug/net5.0/ref/System Market.dll
+/home/rafael/RiderProjects/System Market/System Market/bin/Debug/net5.0/System Market.pdb
+/home/rafael/RiderProjects/System Market/System Market/bin/Debug/net5.0/System Market.Views.dll
+/home/rafael/RiderProjects/System Market/System Market/obj/Debug/net5.0/System Market.csprojAssemblyReference.cache
+/home/rafael/RiderProjects/System Market/System Market/obj/Debug/net5.0/System Market.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/RiderProjects/System Market/System Market/obj/Debug/net5.0/System Market.AssemblyInfoInputs.cache
+/home/rafael/RiderProjects/System Market/System Market/obj/Debug/net5.0/System Market.AssemblyInfo.cs
+/home/rafael/RiderProjects/System Market/System Market/obj/Debug/net5.0/System Market.csproj.CoreCompileInputs.cache
+/home/rafael/RiderProjects/System Market/System Market/obj/Debug/net5.0/System Market.MvcApplicationPartsAssemblyInfo.cache
+/home/rafael/RiderProjects/System Market/System Market/obj/Debug/net5.0/staticwebassets/System Market.StaticWebAssets.Manifest.cache
+/home/rafael/RiderProjects/System Market/System Market/obj/Debug/net5.0/staticwebassets/System Market.StaticWebAssets.xml
+/home/rafael/RiderProjects/System Market/System Market/obj/Debug/net5.0/scopedcss/bundle/System Market.styles.css
+/home/rafael/RiderProjects/System Market/System Market/obj/Debug/net5.0/System Market.RazorTargetAssemblyInfo.cache
+/home/rafael/RiderProjects/System Market/System Market/obj/Debug/net5.0/System Market.dll
+/home/rafael/RiderProjects/System Market/System Market/obj/Debug/net5.0/ref/System Market.dll
+/home/rafael/RiderProjects/System Market/System Market/obj/Debug/net5.0/System Market.pdb
+/home/rafael/RiderProjects/System Market/System Market/obj/Debug/net5.0/System Market.genruntimeconfig.cache
+/home/rafael/RiderProjects/System Market/System Market/obj/Debug/net5.0/System Market.csproj.CopyComplete
+/home/rafael/RiderProjects/System Market/System Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/rafael/RiderProjects/System Market/System Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/rafael/RiderProjects/System Market/System Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/rafael/RiderProjects/System Market/System Market/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/rafael/RiderProjects/System Market/System Market/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/rafael/RiderProjects/System Market/System Market/bin/Debug/net5.0/AutoMapper.dll
+/home/rafael/RiderProjects/System Market/System Market/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/appsettings.Development.json
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/appsettings.json
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/System Market
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/System Market.deps.json
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/System Market.runtimeconfig.json
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/System Market.runtimeconfig.dev.json
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/System Market.dll
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/ref/System Market.dll
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/System Market.pdb
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/System Market.Views.dll
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/AutoMapper.dll
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/System Market.csprojAssemblyReference.cache
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/System Market.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/System Market.AssemblyInfoInputs.cache
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/System Market.AssemblyInfo.cs
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/System Market.csproj.CoreCompileInputs.cache
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/System Market.MvcApplicationPartsAssemblyInfo.cache
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/staticwebassets/System Market.StaticWebAssets.Manifest.cache
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/staticwebassets/System Market.StaticWebAssets.xml
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/scopedcss/bundle/System Market.styles.css
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/System Market.RazorTargetAssemblyInfo.cache
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/System Market.csproj.CopyComplete
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/System Market.dll
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/ref/System Market.dll
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/System Market.pdb
+/home/rafael/RiderProjects/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/System Market.genruntimeconfig.cache
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/appsettings.Development.json
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/appsettings.json
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/System Market
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/System Market.deps.json
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/System Market.runtimeconfig.json
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/System Market.runtimeconfig.dev.json
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/System Market.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/ref/System Market.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/System Market.pdb
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/System Market.Views.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/AutoMapper.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/System Market.csprojAssemblyReference.cache
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/System Market.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/System Market.AssemblyInfoInputs.cache
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/System Market.AssemblyInfo.cs
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/System Market.csproj.CoreCompileInputs.cache
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/System Market.MvcApplicationPartsAssemblyInfo.cache
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/staticwebassets/System Market.StaticWebAssets.Manifest.cache
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/staticwebassets/System Market.StaticWebAssets.xml
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/scopedcss/bundle/System Market.styles.css
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/System Market.RazorTargetAssemblyInfo.cache
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/System Market.csproj.CopyComplete
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/System Market.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/ref/System Market.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/System Market.pdb
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/obj/Debug/net5.0/System Market.genruntimeconfig.cache
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/Npgsql.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/Humanizer.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/System Market/System Market/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\appsettings.json
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\System Market.exe
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\System Market.deps.json
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\System Market.runtimeconfig.json
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\System Market.runtimeconfig.dev.json
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\System Market.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\ref\System Market.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\System Market.pdb
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\System Market.Views.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\Humanizer.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\Npgsql.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\obj\Debug\net5.0\System Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.vieira\Desktop\System Market\System Market\obj\Debug\net5.0\System Market.AssemblyInfoInputs.cache
+C:\Users\rafael.vieira\Desktop\System Market\System Market\obj\Debug\net5.0\System Market.AssemblyInfo.cs
+C:\Users\rafael.vieira\Desktop\System Market\System Market\obj\Debug\net5.0\System Market.csproj.CoreCompileInputs.cache
+C:\Users\rafael.vieira\Desktop\System Market\System Market\obj\Debug\net5.0\System Market.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rafael.vieira\Desktop\System Market\System Market\obj\Debug\net5.0\System Market.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafael.vieira\Desktop\System Market\System Market\obj\Debug\net5.0\staticwebassets\System Market.StaticWebAssets.Manifest.cache
+C:\Users\rafael.vieira\Desktop\System Market\System Market\obj\Debug\net5.0\staticwebassets\System Market.StaticWebAssets.xml
+C:\Users\rafael.vieira\Desktop\System Market\System Market\obj\Debug\net5.0\scopedcss\bundle\System Market.styles.css
+C:\Users\rafael.vieira\Desktop\System Market\System Market\obj\Debug\net5.0\System Market.RazorTargetAssemblyInfo.cache
+C:\Users\rafael.vieira\Desktop\System Market\System Market\obj\Debug\net5.0\System Market.csproj.CopyComplete
+C:\Users\rafael.vieira\Desktop\System Market\System Market\obj\Debug\net5.0\System Market.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\obj\Debug\net5.0\ref\System Market.dll
+C:\Users\rafael.vieira\Desktop\System Market\System Market\obj\Debug\net5.0\System Market.pdb
+C:\Users\rafael.vieira\Desktop\System Market\System Market\obj\Debug\net5.0\System Market.genruntimeconfig.cache
+C:\Users\rafael.vieira\Desktop\System Market\System Market\obj\Debug\net5.0\System Market.csproj.AssemblyReference.cache
